@@ -11,14 +11,12 @@
     background: #f9f9f9;
   }
   
-  /* Container */
   .container {
     max-width: 900px;
     margin: auto;
     padding: 20px;
   }
   
-  /* Header */
   header {
     background: #2c3e50;
     color: white;
@@ -39,7 +37,6 @@
     color: #bdc3c7;
   }
   
-  /* Section */
   section {
     margin: 40px 0;
   }
